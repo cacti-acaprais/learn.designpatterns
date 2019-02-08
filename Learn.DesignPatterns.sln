@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn.DesignPatterns", "Learn.DesignPatterns\Learn.DesignPatterns.csproj", "{AA5F936E-85B6-42B4-B071-74BF088DED7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn.DesignPatterns.Test", "..\Learn.DesignPatterns.Test\Learn.DesignPatterns.Test.csproj", "{4A905C7E-C4AE-4D60-8AD9-D45A77132C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA5F936E-85B6-42B4-B071-74BF088DED7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5F936E-85B6-42B4-B071-74BF088DED7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5F936E-85B6-42B4-B071-74BF088DED7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5F936E-85B6-42B4-B071-74BF088DED7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A905C7E-C4AE-4D60-8AD9-D45A77132C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A905C7E-C4AE-4D60-8AD9-D45A77132C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A905C7E-C4AE-4D60-8AD9-D45A77132C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A905C7E-C4AE-4D60-8AD9-D45A77132C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F733A535-C630-442D-961D-5EDF3393135B}
+	EndGlobalSection
+EndGlobal
