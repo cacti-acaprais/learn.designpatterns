@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\learn.designpatterns\Learn.DesignPatterns\Learn.DesignPatterns.csproj" />
+    <ProjectReference Include="..\Learn.DesignPatterns\Learn.DesignPatterns.csproj" />
   </ItemGroup>
 
 </Project>
